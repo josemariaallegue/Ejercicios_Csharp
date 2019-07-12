@@ -1,0 +1,14 @@
+D:\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_36.csprojResolveAssemblyReference.cache
+D:\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_36.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_36.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_30\obj\Debug\Ejercicio_30.pdb

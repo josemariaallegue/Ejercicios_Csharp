@@ -1,0 +1,34 @@
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe.config
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.pdb
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+D:\VisualStudio\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.pdb
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csproj.CoreCompileInputs.cache
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+D:\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+D:\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+D:\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe.config
+D:\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe
+D:\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.pdb
+D:\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.pdb
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe.config
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.pdb
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+C:\Users\alumno\Downloads\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.pdb
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe.config
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.pdb
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+C:\Users\alumno\Desktop\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe.config
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\bin\Debug\Ejercicios_2.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csprojResolveAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicio_35.csproj.CoreCompileInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Ejercicios_2\Ejercicios_2\obj\Debug\Ejercicios_2.pdb
