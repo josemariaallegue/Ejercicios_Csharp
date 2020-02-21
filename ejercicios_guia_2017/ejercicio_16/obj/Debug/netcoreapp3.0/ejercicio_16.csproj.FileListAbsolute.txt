@@ -1,0 +1,11 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\obj\Debug\netcoreapp3.0\ejercicio_16.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\obj\Debug\netcoreapp3.0\ejercicio_16.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\obj\Debug\netcoreapp3.0\ejercicio_16.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.deps.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.runtimeconfig.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.runtimeconfig.dev.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\bin\Debug\netcoreapp3.0\ejercicio_16.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\obj\Debug\netcoreapp3.0\ejercicio_16.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_16\obj\Debug\netcoreapp3.0\ejercicio_16.pdb

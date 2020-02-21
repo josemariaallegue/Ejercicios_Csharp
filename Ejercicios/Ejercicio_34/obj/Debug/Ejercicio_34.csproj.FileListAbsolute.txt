@@ -1,6 +1,0 @@
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\bin\Debug\Ejercicio_34.exe.config
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\bin\Debug\Ejercicio_34.exe
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\bin\Debug\Ejercicio_34.pdb
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\obj\Debug\Ejercicio_34.exe
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\obj\Debug\Ejercicio_34.pdb
-C:\Users\alumno\Desktop\Ejercicios_2\Ejercicio_34\obj\Debug\Ejercicio_34.csprojResolveAssemblyReference.cache

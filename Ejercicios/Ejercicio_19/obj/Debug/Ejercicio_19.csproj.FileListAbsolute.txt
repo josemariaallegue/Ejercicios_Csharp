@@ -1,5 +1,0 @@
-D:\VisualStudio\ConsoleApplication1\Ejercicio_19\bin\Debug\Ejercicio_19.exe.config
-D:\VisualStudio\ConsoleApplication1\Ejercicio_19\bin\Debug\Ejercicio_19.exe
-D:\VisualStudio\ConsoleApplication1\Ejercicio_19\bin\Debug\Ejercicio_19.pdb
-D:\VisualStudio\ConsoleApplication1\Ejercicio_19\obj\Debug\Ejercicio_19.exe
-D:\VisualStudio\ConsoleApplication1\Ejercicio_19\obj\Debug\Ejercicio_19.pdb

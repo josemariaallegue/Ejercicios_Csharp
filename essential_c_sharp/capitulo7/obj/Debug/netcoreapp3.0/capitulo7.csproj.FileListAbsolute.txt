@@ -1,0 +1,11 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.deps.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.runtimeconfig.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.runtimeconfig.dev.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\bin\Debug\netcoreapp3.0\capitulo7.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\obj\Debug\netcoreapp3.0\capitulo7.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\obj\Debug\netcoreapp3.0\capitulo7.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\obj\Debug\netcoreapp3.0\capitulo7.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\obj\Debug\netcoreapp3.0\capitulo7.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\essential_c_sharp\capitulo7\obj\Debug\netcoreapp3.0\capitulo7.pdb

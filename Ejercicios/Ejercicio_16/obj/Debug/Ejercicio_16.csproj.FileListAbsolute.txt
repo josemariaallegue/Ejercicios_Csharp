@@ -1,6 +1,0 @@
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\bin\Debug\Ejercicio_16.exe.config
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\bin\Debug\Ejercicio_16.exe
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\bin\Debug\Ejercicio_16.pdb
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\obj\Debug\Ejercicio_16.csprojResolveAssemblyReference.cache
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\obj\Debug\Ejercicio_16.exe
-D:\VisualStudio\ConsoleApplication1\Ejercicio_16\obj\Debug\Ejercicio_16.pdb

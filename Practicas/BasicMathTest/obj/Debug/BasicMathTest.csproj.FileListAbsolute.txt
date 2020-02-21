@@ -1,0 +1,16 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\BasicMathTest.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\BasicMathTest.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\obj\Debug\BasicMathTest.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\obj\Debug\BasicMathTest.csproj.CopyComplete
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\obj\Debug\BasicMathTest.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\BasicMathTest\obj\Debug\BasicMathTest.pdb
