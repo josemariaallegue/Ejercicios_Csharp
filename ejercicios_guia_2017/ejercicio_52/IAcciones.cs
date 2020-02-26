@@ -8,15 +8,18 @@ namespace ejercicio_52
     {
         #region propieades
 
-        public ConsoleColor Color { get; set; }
-        public float UnidadesDeEscritura { get; set; }
+        ConsoleColor Color { get; set; }
+
+        float UnidadesDeEscritura { get; set; }
 
         #endregion
 
         #region metodos
 
-        public 
+        EscrituraWrapper Escribir(string texto);
 
+        bool Recargar(int unidades);
+        
         #endregion
 
 

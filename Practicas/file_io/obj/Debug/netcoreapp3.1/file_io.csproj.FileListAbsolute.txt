@@ -1,0 +1,11 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.deps.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.runtimeconfig.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.runtimeconfig.dev.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\bin\Debug\netcoreapp3.1\file_io.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\obj\Debug\netcoreapp3.1\file_io.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\obj\Debug\netcoreapp3.1\file_io.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\obj\Debug\netcoreapp3.1\file_io.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\obj\Debug\netcoreapp3.1\file_io.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\file_io\obj\Debug\netcoreapp3.1\file_io.pdb

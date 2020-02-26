@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj": {}
+    "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj": {
+    "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj",
+        "projectUniqueName": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj",
         "projectName": "ejercicio_35",
-        "projectPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj",
-        "packagesPath": "C:\\Users\\alleg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\obj\\",
+        "projectPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\ejercicio_35.csproj",
+        "packagesPath": "C:\\Users\\jmallegue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\ejercicios_guia_2017\\ejercicio_35\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alleg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmallegue\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,15 +54,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.2, 3.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
+              "version": "[3.0.3, 3.0.3]"
             }
           ],
           "frameworkReferences": {
@@ -70,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

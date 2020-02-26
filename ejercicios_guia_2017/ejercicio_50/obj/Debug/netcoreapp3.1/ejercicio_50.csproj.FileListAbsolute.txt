@@ -1,0 +1,3 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_50\obj\Debug\netcoreapp3.1\ejercicio_50.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_50\obj\Debug\netcoreapp3.1\ejercicio_50.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_50\obj\Debug\netcoreapp3.1\ejercicio_50.AssemblyInfo.cs

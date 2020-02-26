@@ -1,0 +1,10 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.deps.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.runtimeconfig.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.runtimeconfig.dev.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\bin\Debug\netcoreapp3.0\asdf.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\obj\Debug\netcoreapp3.0\asdf.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\obj\Debug\netcoreapp3.0\asdf.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\obj\Debug\netcoreapp3.0\asdf.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\asdf\obj\Debug\netcoreapp3.0\asdf.pdb

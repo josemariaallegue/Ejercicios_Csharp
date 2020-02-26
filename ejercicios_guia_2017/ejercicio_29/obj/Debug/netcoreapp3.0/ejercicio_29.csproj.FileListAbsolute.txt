@@ -4,7 +4,6 @@ C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejerc
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\bin\Debug\netcoreapp3.0\ejercicio_29.runtimeconfig.dev.json
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\bin\Debug\netcoreapp3.0\ejercicio_29.dll
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\bin\Debug\netcoreapp3.0\ejercicio_29.pdb
-C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\obj\Debug\netcoreapp3.0\ejercicio_29.csprojAssemblyReference.cache
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\obj\Debug\netcoreapp3.0\ejercicio_29.AssemblyInfoInputs.cache
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\obj\Debug\netcoreapp3.0\ejercicio_29.AssemblyInfo.cs
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_29\obj\Debug\netcoreapp3.0\ejercicio_29.dll

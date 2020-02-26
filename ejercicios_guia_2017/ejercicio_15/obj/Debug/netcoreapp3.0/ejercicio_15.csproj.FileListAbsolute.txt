@@ -8,4 +8,3 @@ C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejerc
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_15\obj\Debug\netcoreapp3.0\ejercicio_15.AssemblyInfo.cs
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_15\obj\Debug\netcoreapp3.0\ejercicio_15.dll
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_15\obj\Debug\netcoreapp3.0\ejercicio_15.pdb
-C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_15\obj\Debug\netcoreapp3.0\ejercicio_15.csprojAssemblyReference.cache
