@@ -1,0 +1,11 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\obj\Debug\netcoreapp3.1\serializacion.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\obj\Debug\netcoreapp3.1\serializacion.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\obj\Debug\netcoreapp3.1\serializacion.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\bin\Debug\netcoreapp3.1\serializacion.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\obj\Debug\netcoreapp3.1\serializacion.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\serializacion\obj\Debug\netcoreapp3.1\serializacion.pdb
