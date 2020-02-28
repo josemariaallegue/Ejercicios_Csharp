@@ -1,15 +1,35 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
-using System.Text;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Xml.Serialization;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System.Runtime.Serialization;
+using System.Reflection;
+
 
 namespace serializacion_2
 {
-    static class Serializador
+     class Serializador:IFormatter
     {
+        #region campos
+
+        private Type Tipo { get; set; }
+
+        #endregion
+
+        #region constructores
+
+        public Serializador(Type tipo)
+        {
+            Tipo = tipo;
+        }
+
+        #endregion
+
+        #region metodos
         public static void serializadorBinario(object obj, string rutaArchivo)
         {
             FileStream fileStreamAux = File.Open(rutaArchivo, FileMode.OpenOrCreate);
@@ -65,5 +85,63 @@ namespace serializacion_2
             return obj;
 
         }
+
+        public static void serializadorJson(object obj, string rutaArchivo) 
+        {
+            JsonSerializer serializador = new JsonSerializer();
+
+            if (File.Exists(rutaArchivo))
+            {
+                StreamWriter writer = new StreamWriter(rutaArchivo);
+                JsonWriter jsonWriter = new JsonTextWriter(writer);
+                serializador.Serialize(jsonWriter, obj);
+
+                jsonWriter.Close();
+                writer.Close();
+            }
+        }
+
+        public static object desSerializadorJson(Type tipoObjeto, string rutaArchivo) 
+        {
+            JObject jObjectAux = null;
+            JsonSerializer serializador = new JsonSerializer();
+
+            if (File.Exists(rutaArchivo))
+            {
+                StreamReader reader = new StreamReader(rutaArchivo);
+                JsonReader readerJson = new JsonTextReader(reader);
+                jObjectAux = (JObject) serializador.Deserialize(readerJson);
+
+                readerJson.Close();
+                reader.Close();
+            }
+
+            return jObjectAux.ToObject(tipoObjeto);
+        }
+
+        public void Serialize(Stream serializationStream, object graph)
+        {
+            List<PropertyInfo> propiedades = Tipo.GetProperties().ToList();
+            StreamWriter writer = new StreamWriter(serializationStream);
+
+            writer.WriteLine(Tipo.Name);
+            foreach(PropertyInfo propiedad in propiedades)
+            {
+                writer.WriteLine($"{propiedad.Name}:{propiedad.GetValue(graph)}");
+            }
+
+            writer.Close(); 
+        }
+
+        public object Deserialize(Stream serializationStream)
+        {
+            throw new NotImplementedException();
+        }
+
+        public SerializationBinder Binder { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public StreamingContext Context { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public ISurrogateSelector SurrogateSelector { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        #endregion
     }
 }

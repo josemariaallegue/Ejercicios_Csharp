@@ -9,3 +9,14 @@ C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\n
 C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
 C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.dll
 C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Generics\obj\Debug\netcoreapp3.1\Generics.pdb

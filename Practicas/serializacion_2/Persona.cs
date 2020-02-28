@@ -8,7 +8,6 @@ namespace serializacion_2
     class Persona
     {
         #region campos
-
         public string Nombre { get; set; }
         public int Edad { get; set; }
 
