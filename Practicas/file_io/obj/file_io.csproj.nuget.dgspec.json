@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj": {}
+    "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj": {
+    "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj",
+        "projectUniqueName": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj",
         "projectName": "file_io",
-        "projectPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj",
-        "packagesPath": "C:\\Users\\jmallegue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\obj\\",
+        "projectPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\file_io.csproj",
+        "packagesPath": "C:\\Users\\alleg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\file_io\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jmallegue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alleg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
