@@ -1,0 +1,14 @@
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\bin\Debug\Wpf_demo.exe.config
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\bin\Debug\Wpf_demo.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\bin\Debug\Wpf_demo.pdb
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.csprojAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\MainWindow.g.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\App.g.cs
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo_MarkupCompile.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo_MarkupCompile.lref
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\MainWindow.baml
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.g.resources
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.Properties.Resources.resources
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.csproj.GenerateResource.cache
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.exe
+C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\Practicas\Wpf_demo\obj\Debug\Wpf_demo.pdb
