@@ -52,19 +52,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jmallegue\\.nuget\\packages\\": {}
+    "C:\\Users\\alleg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\serializacion_2.csproj",
+      "projectUniqueName": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\serializacion_2.csproj",
       "projectName": "serializacion_2",
-      "projectPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\serializacion_2.csproj",
-      "packagesPath": "C:\\Users\\jmallegue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmallegue\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\obj\\",
+      "projectPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\serializacion_2.csproj",
+      "packagesPath": "C:\\Users\\alleg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alleg\\Documents\\GitHub\\Ejercicios_Csharp\\Practicas\\serializacion_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jmallegue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alleg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -108,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

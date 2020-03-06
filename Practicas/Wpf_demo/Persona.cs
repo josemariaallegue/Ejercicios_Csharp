@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Wpf_demo
 {
+    public enum Nacionalidades
+    {
+        Argentino,
+        Paraguayo,
+        Chileno
+    }
     class Persona
     {
         #region campos

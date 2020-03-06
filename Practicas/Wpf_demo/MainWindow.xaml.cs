@@ -23,11 +23,14 @@ namespace Wpf_demo
         public MainWindow()
         {
             InitializeComponent();
+            nacionalidadComboBox.ItemsSource = Enum.GetValues(typeof(Nacionalidades));
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show($"Hola {this.nombreText.Text} {this.apellidoText.Text}");
+            Persona persona = new Persona(nombreText.Text, apellidoText.Text, nacionalidadComboBox.Text, Convert.ToInt32(edadText.Text));
+
+            MessageBox.Show($"{persona.Mostrar()}");
         }
     }
 }

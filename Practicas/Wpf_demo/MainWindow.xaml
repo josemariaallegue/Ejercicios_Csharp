@@ -16,6 +16,8 @@
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
             <ColumnDefinition/>
             <ColumnDefinition Width="20"/>
         </Grid.ColumnDefinitions>
@@ -44,11 +46,55 @@
         <TextBox x:Name="apellidoText" Grid.Row="3" Grid.Column="2" Width="150"
                  Margin="0,5,5,5"/>
 
-        <ComboBox x:Name="nacionalidadComboBox" Grid.Row="4" Grid.Column="1" 
+        <TextBlock Text="Edad" Grid.Row="4" Grid.Column="1" FontWeight="Bold"
+                   Margin="0,5,5,5"/>
+        <TextBox x:Name="edadText" Grid.Row="4" Grid.Column="2" Width="150"
+                 Margin="0,5,5,5"/>
+
+        <ComboBox x:Name="nacionalidadComboBox" Grid.Row="5" Grid.Column="1" 
                   Margin="0,5,5,5" Grid.ColumnSpan="2"/>
         
-        <Button x:Name="submitButton" Content="Mostrar" Grid.Row="5" Grid.Column="1"
+        <Button x:Name="submitButton" Content="Mostrar" Grid.Row="6" Grid.Column="1"
                 Margin="0,5,5,5" Click="submitButton_Click"/>
+        
+        <!--imagenes
+        <Image Grid.Row="1" Grid.Column="3" Source="zaraza" MaxHeight="10" 
+               MaxWidth="10"/>-->
+        
+        <!--video
+        <MediaElement Grid.Row="1" Grid.Column="3" Source="zaraza" Grid.RowSpan="4"/>-->
+        
+        <!--agrupacion de elementos
+        wrap los agrupa pero si no puede ponerlos todos en una misla linea 
+        los agrupa en la otra orienteacion hasta que pueda
+        stack los agrupa uno al lado del otro
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="3" 
+                    Grid.RowSpan="4">
+            <TextBlock Text="Hola mundo 1"/>
+            <TextBlock Text="Hola mundo 2"/>
+            <TextBlock Text="Hola mundo 3"/>
+            <TextBlock Text="Hola mundo 4"/>
+        </StackPanel>-->
+        
+        <!--ScrollViewer os agrega un scroll para movevernos entro los elementos
+        de una agrupacion
+        <ScrollViewer Grid.Row="1" Grid.Column="5" Grid.RowSpan="6">
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="Hola mundo 1"/>
+                <TextBlock Text="Hola mundo 2"/>
+                <TextBlock Text="Hola mundo 3"/>
+                <TextBlock Text="Hola mundo 4"/>
+                <TextBlock Text="Hola mundo 5"/>
+                <TextBlock Text="Hola mundo 6"/>
+                <TextBlock Text="Hola mundo 7"/>
+                <TextBlock Text="Hola mundo 8"/>
+                <TextBlock Text="Hola mundo 9"/>
+                <TextBlock Text="Hola mundo 10"/>
+                <TextBlock Text="Hola mundo 11"/>
+                <TextBlock Text="Hola mundo 12"/>
+            </StackPanel>
+        </ScrollViewer>-->
+        
     </Grid>
     
 </Window>
