@@ -1,0 +1,12 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\bin\Debug\sql_dapper.exe.config
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\bin\Debug\sql_dapper.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\bin\Debug\sql_dapper.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\bin\Debug\Dapper.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\bin\Debug\Dapper.xml
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.personasWindow.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.Properties.Resources.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.csproj.GenerateResource.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.csproj.CopyComplete
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_dapper\obj\Debug\sql_dapper.pdb

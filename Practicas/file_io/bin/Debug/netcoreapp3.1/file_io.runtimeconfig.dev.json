@@ -2,7 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\alleg\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jmallegue\\.nuget\\packages"
+      "C:\\Users\\alleg\\.nuget\\packages"
     ]
   }
 }

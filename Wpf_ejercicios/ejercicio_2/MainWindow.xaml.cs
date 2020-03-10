@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace ejercicio_2
 {
@@ -23,6 +24,28 @@ namespace ejercicio_2
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            foreach(var drive in Directory.GetLogicalDrives())
+            {
+                TreeViewItem item = new TreeViewItem();
+
+                item.Header = drive;
+                item.Tag = drive;
+
+
+                item.Expanded += Item_Expanded;
+
+                carpetasView.Items.Add(item);
+            }
+
+        }
+
+        private void Item_Expanded(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
     }
 }
