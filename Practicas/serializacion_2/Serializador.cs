@@ -29,7 +29,7 @@ namespace serializacion_2
 
         #endregion
 
-        #region metodos
+        #region metodos para serializacion binaria
         public static void serializadorBinario(object obj, string rutaArchivo)
         {
             FileStream fileStreamAux = File.Open(rutaArchivo, FileMode.OpenOrCreate);
@@ -58,6 +58,9 @@ namespace serializacion_2
             return obj;
         }
 
+        #endregion
+
+        #region metodos para serializacion xml
         public static void serializadorXml(Type tipoObjeto, object obj, string rutaArchivo)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(tipoObjeto);
@@ -86,6 +89,9 @@ namespace serializacion_2
 
         }
 
+        #endregion
+
+        #region metodos para serializacion json
         public static void serializadorJson(object obj, string rutaArchivo) 
         {
             JsonSerializer serializador = new JsonSerializer();

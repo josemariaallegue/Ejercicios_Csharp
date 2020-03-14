@@ -1,0 +1,13 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\ejercicio_56.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_56\obj\Debug\netcoreapp3.1\ejercicio_56.csproj.CopyComplete

@@ -1,0 +1,18 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Cambiar nombre
+       [dbo].[Direccion].[PersonaId] (Columna)
+     Crear
+       [dbo].[PersonaCompleta] (Vista)
+       [dbo].[spPersona_FiltroPorApellido] (Procedimiento)
+
+** Acciones de compatibilidad

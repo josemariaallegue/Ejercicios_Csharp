@@ -9,3 +9,14 @@ C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejerc
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.dll
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.pdb
 C:\Users\jmallegue\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\bin\Debug\netcoreapp3.0\ejercicio_32.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_32\obj\Debug\netcoreapp3.0\ejercicio_32.pdb

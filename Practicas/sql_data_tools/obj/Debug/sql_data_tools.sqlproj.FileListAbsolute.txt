@@ -1,0 +1,10 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\bin\Debug\sql_data_tools.dacpac
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\sql_data_tools.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\sql_data_tools.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\bin\Debug\sql_data_tools.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\bin\Debug\sql_data_tools.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\sql_data_tools.sqlprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\Model.xml
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\refactor.xml
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\postdeploy.sql
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\sql_data_tools\obj\Debug\predeploy.sql
