@@ -1,0 +1,11 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\bin\Debug\netcoreapp3.1\ejercicio_63.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\obj\Debug\netcoreapp3.1\ejercicio_63.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\obj\Debug\netcoreapp3.1\ejercicio_63.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\obj\Debug\netcoreapp3.1\ejercicio_63.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\obj\Debug\netcoreapp3.1\ejercicio_63.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_63\obj\Debug\netcoreapp3.1\ejercicio_63.pdb
