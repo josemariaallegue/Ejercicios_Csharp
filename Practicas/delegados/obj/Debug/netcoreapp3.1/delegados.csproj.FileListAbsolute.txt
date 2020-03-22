@@ -1,0 +1,10 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\bin\Debug\netcoreapp3.1\delegados.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\obj\Debug\netcoreapp3.1\delegados.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\obj\Debug\netcoreapp3.1\delegados.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\obj\Debug\netcoreapp3.1\delegados.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\Practicas\delegados\obj\Debug\netcoreapp3.1\delegados.pdb

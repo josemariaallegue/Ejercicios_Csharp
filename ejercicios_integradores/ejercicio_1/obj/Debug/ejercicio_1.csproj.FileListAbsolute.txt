@@ -1,0 +1,9 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.csproj.GenerateResource.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\bin\Debug\ejercicio_1.exe.config
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\bin\Debug\ejercicio_1.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\bin\Debug\ejercicio_1.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_1\obj\Debug\ejercicio_1.calculadoraForm.resources

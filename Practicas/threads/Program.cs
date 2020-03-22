@@ -19,19 +19,11 @@ namespace threads
             //t2.Start();
 
             #endregion
-
-            #region lock
-
-
-
-
-            #endregion
-
         }
 
         public static void HolaMundo()
         {
-            for(int i = 0;i <100; i++)
+            for (int i = 0; i < 100; i++)
             {
                 Console.WriteLine($"i: {i}");
             }
@@ -45,4 +37,5 @@ namespace threads
             }
         }
 
+    }
 }

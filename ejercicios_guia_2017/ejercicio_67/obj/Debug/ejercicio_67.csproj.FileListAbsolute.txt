@@ -1,0 +1,9 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\bin\Debug\ejercicio_67.exe.config
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\bin\Debug\ejercicio_67.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\bin\Debug\ejercicio_67.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.Form1.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.Properties.Resources.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.csproj.GenerateResource.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_guia_2017\ejercicio_67\obj\Debug\ejercicio_67.pdb
