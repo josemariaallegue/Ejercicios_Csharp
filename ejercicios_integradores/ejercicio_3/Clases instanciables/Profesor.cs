@@ -24,6 +24,8 @@ namespace ejercicio_3.Clases_instanciables
         public Profesor()            
         {
             _clasesDelDia = new Queue<Universidad.EClases>();
+            RamdonClases();
+            RamdonClases();
         }
 
         public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
@@ -53,7 +55,7 @@ namespace ejercicio_3.Clases_instanciables
             retorno.Append($"Clases del dia: ");
             foreach (Universidad.EClases clase in _clasesDelDia)
             {
-                retorno.Append($"{clase} ");
+                retorno.Append($"{clase.ToString()} ");
             }
             retorno.AppendLine();
 
@@ -67,7 +69,8 @@ namespace ejercicio_3.Clases_instanciables
 
         private void RamdonClases()
         {
-            Universidad.EClases.1;
+            Array clases = Enum.GetValues(typeof(Universidad.EClases));
+            _clasesDelDia.Enqueue((Universidad.EClases)clases.GetValue(_random.Next(clases.Length)));
         }
 
         public static bool operator ==(Profesor profesor, Universidad.EClases clase)

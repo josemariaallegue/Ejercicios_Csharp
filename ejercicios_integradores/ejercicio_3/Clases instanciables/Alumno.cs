@@ -45,7 +45,7 @@ namespace ejercicio_3.Clases_instanciables
             StringBuilder retorno = new StringBuilder();
 
             retorno.Append(base.MostrarDatos());
-            retorno.Append($"Clase que toma: {_claseQueToma}").AppendLine();
+            retorno.Append($"Clase que toma: {_claseQueToma.ToString()}").AppendLine();
             retorno.Append($"Estado de la cuenta: {_estadoCuenta}").AppendLine();
 
             return retorno.ToString();
@@ -53,7 +53,7 @@ namespace ejercicio_3.Clases_instanciables
 
         protected override string ParticiparEnClase()
         {
-            return $"Toma clase de {_claseQueToma}";
+            return $"Toma clase de {_claseQueToma.ToString()}";
         }
 
         public override string ToString()
