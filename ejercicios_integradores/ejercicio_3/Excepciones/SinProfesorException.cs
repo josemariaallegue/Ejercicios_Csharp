@@ -9,7 +9,7 @@ namespace ejercicio_3.Excepciones
         #region constructores
 
         public SinProfesorException()
-            :base()
+            :base("No hay profesores que puedan dar esta clase")
         {
 
         }

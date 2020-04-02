@@ -21,7 +21,7 @@ namespace ejercicio_3.Clases_abstractas
             {
                 return _nombre;
             }
-            private set
+            set
             {
                 _nombre = ValidarNombreApellido(value);
             }
@@ -32,7 +32,7 @@ namespace ejercicio_3.Clases_abstractas
             {
                 return _apellido;
             }
-            private set
+            set
             {
                 _apellido = ValidarNombreApellido(value);
             }
@@ -43,12 +43,12 @@ namespace ejercicio_3.Clases_abstractas
             {
                 return _dni;
             }
-            private set
+            set
             {
                 _dni = ValidarDni(Nacionalidad, value);
             }
         }
-        public ENacionalidad Nacionalidad { get; private set; }
+        public ENacionalidad Nacionalidad { get; set; }
         public string ToDni
         {
             set
@@ -104,7 +104,7 @@ namespace ejercicio_3.Clases_abstractas
                 case ENacionalidad.Extranjero:
                     if (dato < 90000000 || dato > 99999999)
                     {
-                        throw new NacionalidadInvalidaException($"DNI extranjer menor a 90000000 o mayor a 99999999");
+                        throw new NacionalidadInvalidaException($"DNI extranjero menor a 90000000 o mayor a 99999999");
                     }
                     break;
 
@@ -138,7 +138,7 @@ namespace ejercicio_3.Clases_abstractas
             
             if(!Regex.Match(dato, "^[A-Z][a-zA-Z]*$").Success)
             {
-                retorno = null;
+                retorno = default;
             }
 
             return retorno;

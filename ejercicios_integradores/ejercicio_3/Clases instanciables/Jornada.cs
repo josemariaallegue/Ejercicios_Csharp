@@ -1,18 +1,19 @@
 ﻿using System;
+using ejercicio_3.Archivos;
+using ejercicio_3.Excepciones;
 using System.Collections.Generic;
 using System.Text;
-using System.Xml.Serialization;
 using System.IO;
 
 namespace ejercicio_3.Clases_instanciables
 {
-    public class Jornada
+    public class Jornada:Texto
     {
         #region campos y atributos
 
-        public List<Alumno> Alumnos { get; private set; }
-        public Universidad.EClases Clase { get; private set; }
-        public Profesor Instructor { get; private set; }
+        public List<Alumno> Alumnos { get; set; }
+        public Universidad.EClases Clase { get; set; }
+        public Profesor Instructor { get; set; }
         
         #endregion
 
@@ -34,56 +35,54 @@ namespace ejercicio_3.Clases_instanciables
 
         #region metodos y sobrecargas
 
-        public string Leer()
+        public bool Guardar()
         {
-            Jornada jornadaAux = null;
             DirectoryInfo rutaArchivo = new DirectoryInfo(@"..\..\..\Archivos\jornada.txt");
-            XmlSerializer serializador = new XmlSerializer(typeof(Jornada));
-
-            if (File.Exists(rutaArchivo.FullName))
-            {
-                using (TextReader reader = new StreamReader(rutaArchivo.FullName))
-                {
-                    jornadaAux = (Jornada)serializador.Deserialize(reader);
-                }
-            }           
-
-            return jornadaAux.ToString();
-        }
-
-        public bool Guardar(Jornada jornada)
-        {
             bool retorno = false;
-            DirectoryInfo rutaArchivo = new DirectoryInfo(@"..\..\..\Archivos\jornada.txt");
-            XmlSerializer serializador = new XmlSerializer(typeof(Jornada));
 
-            if (File.Exists(rutaArchivo.FullName))
+            try
             {
-                using (TextWriter writer = new StreamWriter(rutaArchivo.FullName))
-                {
-                    serializador.Serialize(writer, jornada);
-                    retorno = true;
-                }
-            }            
+               retorno = Guardar(rutaArchivo.FullName, this.ToString());
+            }
+            catch(ArchivosException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             return retorno;
-
         }
+
+        public string Leer()
+        {
+            string retorno = default;
+            DirectoryInfo rutaArchivo = new DirectoryInfo(@"..\..\..\Archivos\jornada.txt");
+            bool resultado = false;
+
+            try
+            {
+                resultado = Leer(rutaArchivo.FullName, out retorno);
+            }
+            catch(ArchivosException e)
+            {
+                Console.WriteLine(e.Message);
+            }           
+
+            return retorno;
+        }     
 
         public override string ToString()
         {
             StringBuilder retorno = new StringBuilder();
 
             retorno.Append($"Clase: {Clase.ToString()}").AppendLine();
-            retorno.Append($"Profesor: {Instructor.ToString()}").AppendLine();
+            retorno.Append($"Profesor:").AppendLine();
+            retorno.Append($"{Instructor.ToString()}").AppendLine();
             retorno.Append($"Alumnos:").AppendLine();
 
             foreach (Alumno alumno in this.Alumnos)
             {
                 retorno.Append($"{alumno.ToString()}").AppendLine();
             }
-
-            retorno.AppendLine();
 
             return retorno.ToString();
         }

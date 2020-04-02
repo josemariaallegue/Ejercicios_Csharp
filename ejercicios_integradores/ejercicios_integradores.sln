@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_1", "ejercicio_1\ejercicio_1.csproj", "{586F0588-F6AB-4D4C-AC9E-EE9874FF4450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_2", "ejercicio_2\ejercicio_2.csproj", "{253D3BD8-C4A9-43D6-A458-301592DEA7BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio_2", "ejercicio_2\ejercicio_2.csproj", "{253D3BD8-C4A9-43D6-A458-301592DEA7BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_3", "ejercicio_3\ejercicio_3.csproj", "{7B550B04-3AA7-4881-9DED-15C887698799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio_3", "ejercicio_3\ejercicio_3.csproj", "{7B550B04-3AA7-4881-9DED-15C887698799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_4", "..\..\..\..\Downloads\TP-4\20171123-SP-Cartas\ejercicio_4.csproj", "{6A73424C-4EC7-4E31-922F-3B3C820D15C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7B550B04-3AA7-4881-9DED-15C887698799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B550B04-3AA7-4881-9DED-15C887698799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B550B04-3AA7-4881-9DED-15C887698799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

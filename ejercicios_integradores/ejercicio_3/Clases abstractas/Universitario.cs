@@ -34,7 +34,7 @@ namespace ejercicio_3.Clases_abstractas
         {
             StringBuilder retorno = new StringBuilder();
 
-            retorno.Append(this.ToString());
+            retorno.Append(base.ToString());
             retorno.Append($"Legajo: {_legajo}").AppendLine();
 
             return retorno.ToString();

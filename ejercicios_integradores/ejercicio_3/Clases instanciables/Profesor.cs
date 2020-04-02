@@ -5,7 +5,7 @@ using ejercicio_3.Clases_abstractas;
 
 namespace ejercicio_3.Clases_instanciables
 {
-    public sealed class Profesor:Universitario
+    public sealed class Profesor : Universitario
     {
         #region campos y propiedades
 
@@ -21,17 +21,17 @@ namespace ejercicio_3.Clases_instanciables
             _random = new Random();
         }
 
-        public Profesor()            
+        public Profesor()
+        {
+
+        }
+
+        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
+            : base(id, nombre, apellido, dni, nacionalidad)
         {
             _clasesDelDia = new Queue<Universidad.EClases>();
             RamdonClases();
             RamdonClases();
-        }
-
-        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad)
-            :base(id, nombre, apellido, dni, nacionalidad)
-        {
-
         }
 
         #endregion

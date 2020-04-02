@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 using ejercicio_3.Excepciones;
+using ejercicio_3.Archivos;
 using System.IO;
 using System.Xml.Serialization;
 
 namespace ejercicio_3.Clases_instanciables
 {
-    public class Universidad
+    public class Universidad : Xml<Universidad>
     {
         #region campos y atributos
 
-        public enum EClases { Porgramacion, Laboratorio, Legislacion, SPD}
+        public enum EClases { Programacion, Laboratorio, Legislacion, SPD }
         public List<Alumno> Alumnos { get; private set; }
         public List<Profesor> Instructores { get; private set; }
         public List<Jornada> Jornadas { get; private set; }
@@ -35,7 +36,9 @@ namespace ejercicio_3.Clases_instanciables
 
         public Universidad()
         {
-
+            Alumnos = new List<Alumno>();
+            Instructores = new List<Profesor>();
+            Jornadas = new List<Jornada>();
         }
 
         #endregion
@@ -44,47 +47,58 @@ namespace ejercicio_3.Clases_instanciables
 
         private string MostrarDatos()
         {
+            StringBuilder retorno = new StringBuilder();
 
+            retorno.AppendLine();
+            retorno.Append($"Jornadas:").AppendLine();
+            foreach (Jornada jornada in Jornadas)
+            {
+                retorno.AppendLine();
+                retorno.Append(jornada.ToString());
+                retorno.Append($"<------------------------------------------------->").AppendLine();
+            }
+            retorno.AppendLine();
+
+            return retorno.ToString();
         }
 
         public override string ToString()
         {
-            return base.ToString();
+            return MostrarDatos();
         }
 
-        public bool Guardar(Universidad uni)
+        public bool Guardar()
         {
             bool retorno = false;
             DirectoryInfo rutaArchivo = new DirectoryInfo(@"..\..\..\Archivos\universidad.txt");
-            XmlSerializer serializador = new XmlSerializer(typeof(Universidad));
 
-            if (File.Exists(rutaArchivo.FullName))
+            try
             {
-                using (TextWriter writer = new StreamWriter(rutaArchivo.FullName))
-                {
-                    serializador.Serialize(writer, this);
-                    retorno = true;
-                }
+                retorno =  Guardar(rutaArchivo.FullName, this);
+            }
+            catch(ArchivosException e)
+            {
+                Console.WriteLine(e.Message);
             }
 
-            return retorno;
-
+            return retorno; 
         }
 
         public string Leer()
         {
-            Universidad universidadAux = null;
+            Universidad universidadAux = default;
             DirectoryInfo rutaArchivo = new DirectoryInfo(@"..\..\..\Archivos\universidad.txt");
-            XmlSerializer serializador = new XmlSerializer(typeof(Universidad));
+            bool resultado = false;
 
-            if (File.Exists(rutaArchivo.FullName))
+            try
             {
-                using (StreamReader reader = new StreamReader(rutaArchivo.FullName))
-                {
-                    universidadAux = (Universidad)serializador.Deserialize(reader);
-                }
+               resultado = Leer(rutaArchivo.FullName, out universidadAux);
             }
-
+            catch(ArchivosException e)
+            {
+                Console.WriteLine(e.Message);
+            }                
+            
             return universidadAux.ToString();
         }
 
@@ -162,6 +176,10 @@ namespace ejercicio_3.Clases_instanciables
             {
                 g.Alumnos.Add(a);
             }
+            else
+            {
+                throw new AlumnoRepetidoException();
+            }
 
             return g;
         }
@@ -178,8 +196,8 @@ namespace ejercicio_3.Clases_instanciables
 
         public static Universidad operator +(Universidad g, EClases clase)
         {
-            Profesor profesorAux = null;
-            Jornada jornadaAux = null;
+            Profesor profesorAux = default;
+            Jornada jornadaAux = default;
             bool resultado = false;
 
             profesorAux = g == clase;
