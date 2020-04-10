@@ -1,0 +1,11 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.deps.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.runtimeconfig.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.runtimeconfig.dev.json
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\bin\Debug\netcoreapp3.1\zaraza.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\obj\Debug\netcoreapp3.1\zaraza.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\obj\Debug\netcoreapp3.1\zaraza.AssemblyInfoInputs.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\obj\Debug\netcoreapp3.1\zaraza.AssemblyInfo.cs
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\obj\Debug\netcoreapp3.1\zaraza.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\zaraza\obj\Debug\netcoreapp3.1\zaraza.pdb
