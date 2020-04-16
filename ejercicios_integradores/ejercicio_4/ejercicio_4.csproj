@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C8411424-FA79-4ED8-B615-9121484EB502}</ProjectGuid>
+    <ProjectGuid>{99649FF7-3889-42E4-91FB-8F41B121268A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ejercicio_4</RootNamespace>
     <AssemblyName>ejercicio_4</AssemblyName>
@@ -33,7 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.35\lib\net461\Dapper.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,16 +50,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases estaticas\DatabaseHelper.cs" />
+    <Compile Include="Clases estaticas\GuardarString.cs" />
+    <Compile Include="Clases estaticas\PaqueteDAO.cs" />
     <Compile Include="Clases\Correo.cs" />
     <Compile Include="Clases\Paquete.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Excepciones\TrackingIdRepetidoException.cs" />
+    <Compile Include="FrmPpal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmPpal.Designer.cs">
+      <DependentUpon>FrmPpal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\IMostrar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmPpal.resx">
+      <DependentUpon>FrmPpal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,6 +77,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,9 +92,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Clases estaticas\" />
-    <Folder Include="Excepciones\" />
-    <Folder Include="Interfaces\" />
+    <Folder Include="Archivos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

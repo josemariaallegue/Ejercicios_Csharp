@@ -1,62 +1,56 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ejercicio_4.Clases_estaticas;
+using ejercicio_4.Interfaces;
+using System;
+using System.Threading;
 
 namespace ejercicio_4.Clases
 {
-    class Paquete
+    public class Paquete : IMostrar<Paquete>
     {
+        #region campos y propiedades
+
         public enum EEstado
         {
             Ingresado, EnViaje, Entregado
         }
 
-        private string direccionEntrega;
-        private string trackingID;
-        private EEstado estado;
+        public string DireccionEntrega { get; set; }
+        public string TrackingId { get; set; }
+        public EEstado Estado { get; set; }
 
-        public Paquete(string direccionEntrega, string trackingID)
+        #endregion
+
+        #region delegados y eventos
+
+        //con delegado
+        public delegate void DelegadoEstado(object sender, EventArgs args);
+        public event DelegadoEstado InformaEstado;
+
+        //sin delegado
+        //public EventHandler<object, EventArgs> InformaEstado;
+
+
+        #endregion
+
+        #region constructores
+        public Paquete(string _direccionEntrega, string _trackingID)
         {
-            this.DireccionEntrega = direccionEntrega;
-            this.TrackingID = trackingID;
+            DireccionEntrega = _direccionEntrega;
+            TrackingId = _trackingID;
         }
 
-        public string DireccionEntrega
-        {
-            get
-            {
-                return this.direccionEntrega;
-            }
-            set
-            {
-                this.direccionEntrega = value;
-            }
-        }
+        #endregion
 
-        public string TrackingID
-        {
-            get
-            {
-                return this.trackingID;
-            }
-            set
-            {
-                this.trackingID = value;
-            }
-        }
+        #region metodos y sobrecaras
 
-        public EEstado Estado
+        /// <summary>
+        /// MostrarDatos utilizará string.Format con el siguiente formato "{0} para {1}", p._trackingID, p._direccionEntrega
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns></returns>
+        public string MostrarDatos(IMostrar<Paquete> elemento)
         {
-            get
-            {
-                return this.estado;
-            }
-            set
-            {
-                this.estado = value;
-            }
+            return string.Format($"{((Paquete)elemento).TrackingId} para {((Paquete)elemento).DireccionEntrega}");
         }
 
         public override string ToString()
@@ -72,7 +66,7 @@ namespace ejercicio_4.Clases
         /// <returns></returns>
         public static bool operator ==(Paquete p1, Paquete p2)
         {
-            return (p1.trackingID == p2.trackingID);
+            return (p1.TrackingId == p2.TrackingId);
         }
 
         /// <summary>
@@ -86,19 +80,6 @@ namespace ejercicio_4.Clases
             return !(p1 == p2);
         }
 
-        #region Alumno
-
-        /// <summary>
-        /// MostrarDatos utilizará string.Format con el siguiente formato "{0} para {1}", p.trackingID, p.direccionEntrega
-        /// </summary>
-        /// <param name="elemento"></param>
-        /// <returns></returns>
-        public string MostrarDatos(IMostrar<Paquete> elemento)
-        {
-
-            return "";
-        }
-
         /// <summary>
         /// a.	Colocar una demora de 10 segundos.
         /// b.	Pasar al siguiente estado.
@@ -108,7 +89,17 @@ namespace ejercicio_4.Clases
         /// </summary>
         public void MockCicloDeVida()
         {
+            while (this.Estado != EEstado.Entregado)
+            {
+                Thread.Sleep(4000);
+                this.Estado += 1;
+                InformaEstado?.Invoke(this, null);
+            }
 
+            PaqueteDAO.Insertar(this);
         }
+
+        #endregion
+
     }
 }

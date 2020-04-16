@@ -1,0 +1,12 @@
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\bin\Debug\ejercicio_4.exe.config
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\bin\Debug\ejercicio_4.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\bin\Debug\ejercicio_4.pdb
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\bin\Debug\Dapper.dll
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\bin\Debug\Dapper.xml
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.csprojAssemblyReference.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.FrmPpal.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.Properties.Resources.resources
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.csproj.GenerateResource.cache
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.csproj.CopyComplete
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.exe
+C:\Users\alleg\Documents\GitHub\Ejercicios_Csharp\ejercicios_integradores\ejercicio_4\obj\Debug\ejercicio_4.pdb

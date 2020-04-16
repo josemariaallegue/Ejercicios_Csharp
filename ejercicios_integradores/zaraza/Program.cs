@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace zaraza
 {
@@ -6,8 +7,10 @@ namespace zaraza
     {
         static void Main(string[] args)
         {
-            Paquete paquete = new Paquete("Maure 1945", "1234");
-            paquete.MockCicloDeVida();
+            //Paquete paquete = new Paquete("Maure 1945", "1234");
+            DirectoryInfo directory = new DirectoryInfo(@"..\..\..\Archivos\salida.txt");
+            //paquete.MockCicloDeVida();
+            Console.WriteLine(directory.FullName);
         }
     }
 }
