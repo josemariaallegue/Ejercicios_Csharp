@@ -101,7 +101,6 @@ namespace serializacion_2
                 StreamWriter writer = new StreamWriter(rutaArchivo);
                 JsonWriter jsonWriter = new JsonTextWriter(writer);
                 serializador.Serialize(jsonWriter, obj);
-
                 jsonWriter.Close();
                 writer.Close();
             }

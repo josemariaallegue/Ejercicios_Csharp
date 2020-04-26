@@ -23,7 +23,7 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "sql_data_tools_impor_tabla"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "threads", "threads\threads.csproj", "{562DC041-3C1E-40E4-91B0-CFB91C011418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegados", "delegados\delegados.csproj", "{55A929B5-1E44-4F71-A61B-FD0A8C75F249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegados", "delegados\delegados.csproj", "{55A929B5-1E44-4F71-A61B-FD0A8C75F249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
